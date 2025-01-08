@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ce2c0b57-62ef-4b00-9184-2dca9e450f18">
+  <name>ДЗ_ДобавленияРеквизитов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Д обавления реквизитов</value>
+  </synonym>
+  <server>true</server>
+  <externalConnection>true</externalConnection>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>

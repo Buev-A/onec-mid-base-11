@@ -663,6 +663,7 @@
   <commonModules>CommonModule.ГрупповоеИзменениеОбъектов</commonModules>
   <commonModules>CommonModule.ГрупповоеИзменениеОбъектовКлиент</commonModules>
   <commonModules>CommonModule.ГрупповоеИзменениеОбъектовПереопределяемый</commonModules>
+  <commonModules>CommonModule.ДЗ_ДобавленияРеквизитов</commonModules>
   <commonModules>CommonModule.ДлительныеОперации</commonModules>
   <commonModules>CommonModule.ДлительныеОперацииВызовСервера</commonModules>
   <commonModules>CommonModule.ДлительныеОперацииКлиент</commonModules>
@@ -1178,6 +1179,8 @@
   <catalogs>Catalog.ГруппыВнешнихПользователей</catalogs>
   <catalogs>Catalog.ГруппыДоступа</catalogs>
   <catalogs>Catalog.ГруппыПользователей</catalogs>
+  <catalogs>Catalog.ДЗ_Должности</catalogs>
+  <catalogs>Catalog.ДЗ_КонтактныеЛица</catalogs>
   <catalogs>Catalog.ДоговорыКонтрагентов</catalogs>
   <catalogs>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы</catalogs>
   <catalogs>Catalog.ДополнительныеОтчетыИОбработки</catalogs>
@@ -1213,8 +1216,6 @@
   <catalogs>Catalog.УчетныеЗаписиСинхронизацииФайлов</catalogs>
   <catalogs>Catalog.УчетныеЗаписиЭлектроннойПочты</catalogs>
   <catalogs>Catalog.Файлы</catalogs>
-  <catalogs>Catalog.КонтактныеЛица</catalogs>
-  <catalogs>Catalog.Должности</catalogs>
   <documents>Document.ЗаказПокупателя</documents>
   <documents>Document.ОплатаОтПокупателя</documents>
   <documents>Document.ОплатаПоставщику</documents>
