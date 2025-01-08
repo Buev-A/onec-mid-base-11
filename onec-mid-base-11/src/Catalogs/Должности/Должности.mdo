@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c0e5fc58-c27e-46f1-a158-5020e8e6efe1">
+  <producedTypes>
+    <objectType typeId="44f406eb-948f-478f-8669-93618fb5c10e" valueTypeId="1a798353-bfba-44d0-8a96-ef7d08dbcb3a"/>
+    <refType typeId="960d9a66-a07a-4d6c-a449-4867bc3e33b9" valueTypeId="4a62f4bd-1c46-4c6f-b8a2-4b67d6b561f7"/>
+    <selectionType typeId="38b71bb3-370d-4569-8a6e-55c98d3c079f" valueTypeId="de93a3ae-196b-4d8f-a856-26f9e997d16b"/>
+    <listType typeId="f2bdd39e-faa9-49f7-bcf7-0c58822cbf13" valueTypeId="6ad3e231-22f8-4246-8a74-ddeaa06dd6c9"/>
+    <managerType typeId="5934392a-a54a-4027-b1fb-d0f84155fbf7" valueTypeId="3a44b535-8f86-47d3-a8ee-44cac6f31071"/>
+  </producedTypes>
+  <name>Должности</name>
+  <synonym>
+    <key>ru</key>
+    <value>Должности</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Должности.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Должности.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Должность</value>
+  </objectPresentation>
+  <listPresentation>
+    <key>ru</key>
+    <value>Должности</value>
+  </listPresentation>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+  <attributes uuid="bbad21c8-d7ee-41b4-8c07-89c1dffdfcfd">
+    <name>Должность</name>
+    <synonym>
+      <key>ru</key>
+      <value>Должность</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>100</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+</mdclass:Catalog>

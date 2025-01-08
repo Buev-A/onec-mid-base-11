@@ -41,13 +41,8 @@
         <segments>УзлыПлановОбмена.ПланОбменаПредставление</segments>
       </dataPath>
       <extendedTooltip>
-        <name>УзлыПлановОбменаПланОбменаПредставлениеExtendedTooltip</name>
+        <name>УзлыПлановОбменаПланОбменаПредставлениеРасширеннаяПодсказка</name>
         <id>31</id>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
         <autoMaxHeight>true</autoMaxHeight>
@@ -58,11 +53,6 @@
       <contextMenu>
         <name>УзлыПлановОбменаПланОбменаПредставлениеКонтекстноеМеню</name>
         <id>24</id>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <autoFill>true</autoFill>
       </contextMenu>
       <type>InputField</type>
@@ -92,13 +82,8 @@
         <segments>УзлыПлановОбмена.УзелПредставление</segments>
       </dataPath>
       <extendedTooltip>
-        <name>УзлыПлановОбменаУзелПредставлениеExtendedTooltip</name>
+        <name>УзлыПлановОбменаУзелПредставлениеРасширеннаяПодсказка</name>
         <id>32</id>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
         <autoMaxHeight>true</autoMaxHeight>
@@ -109,11 +94,6 @@
       <contextMenu>
         <name>УзлыПлановОбменаУзелПредставлениеКонтекстноеМеню</name>
         <id>26</id>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <autoFill>true</autoFill>
       </contextMenu>
       <type>InputField</type>
@@ -135,11 +115,6 @@
     <autoCommandBar>
       <name>УзлыПлановОбменаКоманднаяПанель</name>
       <id>16</id>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <horizontalAlign>Left</horizontalAlign>
       <autoFill>true</autoFill>
     </autoCommandBar>
@@ -148,21 +123,11 @@
       <name>УзлыПлановОбменаВыбор</name>
     </handlers>
     <searchStringAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
-      <name>УзлыПлановОбменаSearchString</name>
+      <name>УзлыПлановОбменаСтрокаПоиска</name>
       <id>33</id>
       <extendedTooltip>
-        <name>УзлыПлановОбменаSearchStringExtendedTooltip</name>
+        <name>УзлыПлановОбменаСтрокаПоискаРасширеннаяПодсказка</name>
         <id>35</id>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
         <autoMaxHeight>true</autoMaxHeight>
@@ -171,13 +136,8 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>УзлыПлановОбменаSearchStringContextMenu</name>
+        <name>УзлыПлановОбменаСтрокаПоискаКонтекстноеМеню</name>
         <id>34</id>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <autoFill>true</autoFill>
       </contextMenu>
       <source>УзлыПлановОбмена</source>
@@ -186,21 +146,11 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
-      <name>УзлыПлановОбменаViewStatus</name>
+      <name>УзлыПлановОбменаСостояниеПросмотра</name>
       <id>36</id>
       <extendedTooltip>
-        <name>УзлыПлановОбменаViewStatusExtendedTooltip</name>
+        <name>УзлыПлановОбменаViewStatusРасширеннаяПодсказка</name>
         <id>38</id>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
         <autoMaxHeight>true</autoMaxHeight>
@@ -209,13 +159,8 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>УзлыПлановОбменаViewStatusContextMenu</name>
+        <name>УзлыПлановОбменаСостояниеПросмотраКонтекстноеМеню</name>
         <id>37</id>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <autoFill>true</autoFill>
       </contextMenu>
       <type>ViewStatusAddition</type>
@@ -225,21 +170,11 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
-      <name>УзлыПлановОбменаSearchControl</name>
+      <name>УзлыПлановОбменаУправлениеПоиском</name>
       <id>39</id>
       <extendedTooltip>
-        <name>УзлыПлановОбменаSearchControlExtendedTooltip</name>
+        <name>УзлыПлановОбменаSearchControlРасширеннаяПодсказка</name>
         <id>41</id>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
         <autoMaxHeight>true</autoMaxHeight>
@@ -248,13 +183,8 @@
         </extInfo>
       </extendedTooltip>
       <contextMenu>
-        <name>УзлыПлановОбменаSearchControlContextMenu</name>
+        <name>УзлыПлановОбменаУправлениеПоискомКонтекстноеМеню</name>
         <id>40</id>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <autoFill>true</autoFill>
       </contextMenu>
       <type>SearchControlAddition</type>
@@ -264,13 +194,8 @@
       </extInfo>
     </searchControlAddition>
     <extendedTooltip>
-      <name>УзлыПлановОбменаExtendedTooltip</name>
+      <name>УзлыПлановОбменаРасширеннаяПодсказка</name>
       <id>30</id>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <type>Label</type>
       <autoMaxWidth>true</autoMaxWidth>
       <autoMaxHeight>true</autoMaxHeight>
@@ -281,11 +206,6 @@
     <contextMenu>
       <name>УзлыПлановОбменаКонтекстноеМеню</name>
       <id>15</id>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <autoFill>true</autoFill>
     </contextMenu>
     <readOnly>true</readOnly>
@@ -324,13 +244,8 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>ФормаВыбратьExtendedTooltip</name>
+        <name>ФормаВыбратьРасширеннаяПодсказка</name>
         <id>28</id>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
         <autoMaxHeight>true</autoMaxHeight>
@@ -359,13 +274,8 @@
         <value>Команды списка узлов</value>
       </title>
       <extendedTooltip>
-        <name>КомандыСпискаУзловExtendedTooltip</name>
+        <name>КомандыСпискаУзловРасширеннаяПодсказка</name>
         <id>29</id>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <type>Label</type>
         <autoMaxWidth>true</autoMaxWidth>
         <autoMaxHeight>true</autoMaxHeight>
@@ -377,11 +287,6 @@
         <commandSource>Item.УзлыПлановОбмена</commandSource>
       </extInfo>
     </items>
-    <visible>true</visible>
-    <enabled>true</enabled>
-    <userVisible>
-      <common>true</common>
-    </userVisible>
     <horizontalAlign>Left</horizontalAlign>
     <autoFill>true</autoFill>
   </autoCommandBar>
